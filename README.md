@@ -1,7 +1,8 @@
 ## BLUESPAINE 👋
 
 **An Aspiring backend developer. Interested in Web, Vision, ML, etc.**
-&nbsp;&nbsp;
+
+&nbsp;
 
 <h3>Past Projects</h3>
 
