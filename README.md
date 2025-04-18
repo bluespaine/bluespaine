@@ -25,6 +25,7 @@ Interested in Web, Vision, ML, etc.
 
 <h3>Contact</h3>
 <a href="mailto:jeonghalib@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghalib@gmail.com"/></a>
+<a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 
 <!--
 **bluespaine/bluespaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
