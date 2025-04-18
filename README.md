@@ -1,6 +1,6 @@
 ## Hi, There! 👋
 
-An Aspiring backend developer. 
+An Aspiring Backend Developer. 
 
 Interested in Web, Vision, ML, etc.
 
