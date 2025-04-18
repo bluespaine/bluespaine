@@ -2,7 +2,7 @@
 
 An Aspiring backend developer. Interest in Web, Vision, ML, etc.
 
-<h3>past projects</h3>
+<h3>Past Projects</h3>
 
 - dynamic traffic control system using Reinforced Learning, Youtube Music Search
 - Youtube Music Track/Album Search Website
@@ -21,10 +21,7 @@ An Aspiring backend developer. Interest in Web, Vision, ML, etc.
 </div>
 
 <h3>Contact</h3>
-<a href="mailto:jeonghalib@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonghalib@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="mailto:jeonghalib@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghalib@gmail.com"/></a>
 
 <!--
 **bluespaine/bluespaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
