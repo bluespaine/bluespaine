@@ -14,7 +14,7 @@ past projects
   
 <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 </div>
