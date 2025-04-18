@@ -1,6 +1,7 @@
 ## Hi, There! 👋
-<h4>An Aspiring backend developer. Interested in Web, Vision, ML, etc.</h4>
----------
+An Aspiring backend developer. 
+Interested in Web, Vision, ML, etc.
+&nbsp;
 
 <h3>Past Projects</h3>
 
