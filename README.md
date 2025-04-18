@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-An Aspiring backend developer.
+An Aspiring backend developer. Interest in Web, Vision, ML, etc.
 
 <h3>past projects</h3>
+
 - dynamic traffic control system using Reinforced Learning, Youtube Music Search
 - Youtube Music Track/Album Search Website
 - Food Ordering App
-
-- 📫 How to reach me: jeonghalib@gmail.com
 
 <h3>Skills</h3>
 <div>
@@ -22,8 +21,8 @@ An Aspiring backend developer.
 </div>
 
 <h3>Contact</h3>
-<a href="jeonghalib@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=jeonghalib@gmail.com"
+<a href="mailto:jeonghalib@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jeonghalib@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
