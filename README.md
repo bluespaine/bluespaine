@@ -1,9 +1,8 @@
 ## BLUESPAINE 👋
 
-**An Aspiring backend developer. Interested in Web, Vision, ML, etc.**
+An Aspiring backend developer. Interested in Web, Vision, ML, etc.
 
 &nbsp;
-
 <h3>Past Projects</h3>
 
 - Dynamic traffic control system using Reinforced Learning, Youtube Music Search
