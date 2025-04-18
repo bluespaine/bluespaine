@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+An Aspiring backend developer.
+
+past projects
+- dynamic traffic control system using Reinforced Learning, Youtube Music Search
+- Youtube Music Track/Album Search Website
+- Food Ordering App
+
+- 📫 How to reach me: jeonghalib@gmail.com
+
 <!--
 **bluespaine/bluespaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
