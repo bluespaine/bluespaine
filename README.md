@@ -14,14 +14,14 @@ past projects
   
 <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-4479A1?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 
 </div>
 
 <h3>Contact</h3>
 
-<a href="https://jeonghalib@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://jeonghalib@gmail.com"
+<a href="jeonghalib@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=jeonghalib@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
