@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-An Aspiring backend developer. Interest in Web, Vision, ML, etc.
+An Aspiring backend developer. Interested in Web, Vision, ML, etc.
 
 <h3>Past Projects</h3>
 
-- dynamic traffic control system using Reinforced Learning, Youtube Music Search
+- Dynamic traffic control system using Reinforced Learning, Youtube Music Search
 - Youtube Music Track/Album Search Website
 - Food Ordering App
 
