@@ -1,16 +1,18 @@
 ## Hi, There! 👋
 
-An Aspiring Backend Developer. 
+Aspiring web backend developer.
 
-Interested in Web, Vision, ML, etc.
+Currently gaining hands-on experience as a web/app development intern.
 
-
+<br>
 <h3>Past Projects</h3>
 
+- Globi (Global Chamber AI chatbot)
 - Dynamic Traffic Control System using Reinforced Learning
-- Youtube Music Track/Album Search Website
+- YouTube Music Track/Album Search Website
 - Food Ordering App
 
+<br>
 <h3>Skills</h3>
 <div>
 <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
@@ -27,6 +29,7 @@ Interested in Web, Vision, ML, etc.
 <img src="https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 </div>
 
+<br>
 <h3>Contact</h3>
 <a href="mailto:jeonghalib@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghalib@gmail.com"/></a>
 
