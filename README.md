@@ -15,9 +15,13 @@ Interested in Web, Vision, ML, etc.
 <div>
 <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-6DB33F?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 
+  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/supabase-black?logo=supabase&style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
